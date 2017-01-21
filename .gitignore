@@ -3,3 +3,5 @@ data
 .ipynb_*
 .DS_Store
 *~
+*.npy
+*.tar.gz
